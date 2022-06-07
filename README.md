@@ -6,11 +6,6 @@
 <a href="https://youtube.com/c/CYBERSH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Cyber SH" height="35" width="40" /></a>
 <a href="https://t.me/cybershbd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Cyber SH" height="35" width="35" /></a
  
-
-<a href="https://t.me/cybershbd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Cyber SH" height="35" width="35" /></a>
-<a href="https://t.me/cybershbd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Cyber SH" height="35" width="35" /></a>
-<a href="https://t.me/cybershbd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Cyber SH" height="35" width="35" /></a>
-<a href="https://t.me/cybershbd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Cyber SH" height="35" width="35" /></a>
 </div>
 
 <br><br><br><br><br>
