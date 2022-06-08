@@ -39,4 +39,4 @@
 
 ## Tools From CYBER SH
 <a href="https://github.com/ShTasrif/cybersh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShTasrif&repo=cybersh&theme=dark" height="100" width="300"></a>
-<a href="https://github.com/ShTasrif/cybersh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShTasrif&repo=SH-Encryptor&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ShTasrif/SH-Encryptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShTasrif&repo=SH-Encryptor&theme=dark" height="100" width="300"></a>
