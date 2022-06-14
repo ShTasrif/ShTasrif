@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+CyberSH;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+Love+You+All)
+
 <div>
 <a href="https://github.com/ShTasrif"> <img src="https://avatars.githubusercontent.com/u/85736436?v=4" alt="ToxicNoob" height="185" width="185" align="left"></a>
 <br>
